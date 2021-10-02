@@ -7,6 +7,7 @@ My favorite animals: Wolf,Cat 🐺🐱
 I have returned to using github.
 
 👇 the language i use 👇
+
 <img src="https://img.shields.io/badge/-JavaScript-yellow" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,4 +21,5 @@ I have returned to using github.
 깃헙을 복귀했습니다.
 
 👇 내가 사용하는 언어 👇
+
 <img src="https://img.shields.io/badge/-JavaScript-yellow" />
