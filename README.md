@@ -10,8 +10,6 @@ I have returned to using github.
 
 <img src="https://img.shields.io/badge/-JavaScript-yellow" /> <img src="https://img.shields.io/badge/-Delphi-red" /> <img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-CoffeeScript-yellowgreen" /> <img src="https://img.shields.io/badge/-PHP-9cf" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyGaeul&show_icons=true&theme=radical)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✋ 안녕하세요 ✋
