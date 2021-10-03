@@ -30,6 +30,6 @@ contact: Discord: 잠꾸러기#6200
   
 문의: Discord: 잠꾸러기#6200
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyGaeul&show_icons=true&theme=radical)
+<a href="https://github.com/PrettyGaeul">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyGaeul&show_icons=true&theme=radical)</a>
 
 </div>
