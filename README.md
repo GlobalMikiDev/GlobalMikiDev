@@ -10,7 +10,7 @@ I have returned to using github.
 
 👇 the language i use 👇
 
-<img src="https://img.shields.io/badge/-Java-yellow" /> <img src="https://img.shields.io/badge/-JavaScript-yellow" /> <img src="https://img.shields.io/badge/-Delphi-red" /> <img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-CoffeeScript-yellowgreen" /> <img src="https://img.shields.io/badge/-PHP-9cf" /> <img src="https://img.shields.io/badge/-Less-blue" /> <img src="https://img.shields.io/badge/-html-9cf" /> <img src="https://img.shields.io/badge/-C-blueviolet" /> <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet" />
+<img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&link=https://github.com/PrettyGaeul" /> <img src="https://img.shields.io/badge/-JavaScript-yellow" /> <img src="https://img.shields.io/badge/-Delphi-red" /> <img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-CoffeeScript-yellowgreen" /> <img src="https://img.shields.io/badge/-PHP-9cf" /> <img src="https://img.shields.io/badge/-Less-blue" /> <img src="https://img.shields.io/badge/-html-9cf" /> <img src="https://img.shields.io/badge/-C-blueviolet" /> <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
