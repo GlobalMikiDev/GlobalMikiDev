@@ -6,9 +6,10 @@ This is "PrettyGaeul" I am programming as a hobby.
 
 My favorite animals: Wolf,Cat 🐺 🐱
   
-My Country: USA, Korea (Mixed Blood) 🇺🇸 🇰🇷
+My Country: USA, Korea (Mixed Blood)
   
 Fan games are what I make when I want to make them.
+
 We do not outsource fan game development.
 
 I have returned to using github.
@@ -27,7 +28,7 @@ contact: Discord: 잠꾸러기#6200
 
 내가 좋아하는 동물은 늑대와 고양이 🐺🐱
   
-My Country: USA, Korea (Mixed Blood) 🇺🇸 🇰🇷
+나의 국가: 미국, 한국 (혼혈)
   
 팬게임은 제가 만들고 싶으면 만드는겁니다.
 
