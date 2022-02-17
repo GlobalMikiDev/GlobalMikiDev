@@ -3,8 +3,8 @@
 ✋ Hello~!! ✋
 <br>안녕하세요
 
-Occupation: Developer Hobbies: Programming
-<br>직업: 개발자 취미: 프로그래밍
+Occupation: CTO Developer Hobbies: Programming
+<br>직업: CTO 개발자 취미: 프로그래밍
 
 My favorite animals: Wolf,Cat 🐺 🐱
 <br>내가 좋아하는 동물은 늑대와 고양이
