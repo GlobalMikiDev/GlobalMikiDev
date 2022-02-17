@@ -2,7 +2,7 @@
 
 ✋ Hello~!! ✋
 
-This is "PrettyGaeul" I am programming as a hobby.
+Occupation: Developer Hobbies: Programming
 
 My favorite animals: Wolf,Cat 🐺 🐱
   
@@ -24,7 +24,7 @@ contact: Discord: 잠꾸러기#6200
 
 ✋ 안녕하세요 ✋
 
-취미로 프로그래밍 하는중인 "PrettyGaeul" 입니다.
+직업: 개발자 취미: 프로그래밍
 
 내가 좋아하는 동물은 늑대와 고양이 🐺🐱
   
