@@ -25,6 +25,6 @@ contact: Discord: Miki 🌸#1111
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/PrettyGaeul">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyGaeul&show_icons=true&theme=radical)</a>
+<a href="https://github.com/PrettyGaeul">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlobalMikiDev&show_icons=true&theme=radical)</a>
 
 </div>
